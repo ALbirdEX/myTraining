@@ -24,3 +24,15 @@ var c = "I";   // мое второе задание, комментарии
 
 
 var myName;   // var пеперменная (усиаревшее), на данный момент используют let, const
+
+
+
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;            //регистр в переменных
